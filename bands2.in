@@ -1,0 +1,6 @@
+&bands
+	prefix = 'aiida'
+	outdir = './out/'
+	filband = 'aiida.bands.dat'
+	lsym = .true.
+/
